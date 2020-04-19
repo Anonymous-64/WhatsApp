@@ -1,0 +1,5 @@
+import these modules before using the code 
+pyaudio
+ pygame
+ gTTS
+ twilio
